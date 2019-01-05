@@ -1,0 +1,24 @@
+
+.canvas{
+    Float:right;
+    object-fit: contain;
+    max-height:50%;
+    width:50%;
+    border-image-width: 50px;
+    overflow: visible;
+    
+
+    
+
+}
+.image{
+    float:left;
+    object-fit: contain;
+    height:50%;
+    width: 50%;
+}
+.container{
+    padding: 10px;
+}
+
+    
